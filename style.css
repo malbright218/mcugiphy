@@ -1,0 +1,67 @@
+.jumbotron, .row {
+    text-align: center;
+    
+}
+.jumbotron {
+    background: rgb(75,75,75);
+}
+
+.row {
+    padding-top: 10px;
+}
+body {
+    background: #F0772F
+}
+button {
+    width: 150px;
+    height: 50px;
+    background: linear-gradient(to right, rgba(50,104,189,0), rgba(0,0,0,1));
+    padding-left: 10px;
+    padding-right: 10px;
+    color: rgb(240,240,240);
+}
+
+input[type="text"], textarea {
+
+    background-color : rgb(75,75,75); 
+    color: rgb(240,240,240);
+  
+  }
+
+#add-hero {
+    width: 140px;
+    height: 25px;
+}
+
+#Iro {
+    background: linear-gradient(to bottom right,#6E2B3C, #A49576);
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#Cap {
+    background: linear-gradient( to bottom right, #12254B, #B1B3B0, #9D1F22);
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#Tho {
+    background: linear-gradient(to bottom right,#b80000, #e2eeed);
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#Hul {
+    background: linear-gradient(to bottom right, #4fab55, #8f1f90);
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#Bla, #Haw {
+    background: linear-gradient(to bottom right, #f0e3d3, #000000);
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+
